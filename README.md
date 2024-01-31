@@ -1,6 +1,6 @@
 # <p align="center">Cycling Equipment & Accessories Sales Analysis</p>
 # Project Overview
-Utilised Power BI to build interactive reports for the management team to track KPIs, compare regional performance, and identify high-value customers.
+Built interactive reports for the management team to track KPIs, compare regional performance, and identify high-value customers.
 
 # Dashboard
 
