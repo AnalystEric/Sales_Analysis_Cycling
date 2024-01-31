@@ -27,17 +27,14 @@ Utilised Power BI to build interactive reports for the management team to track 
 * Deploy reports to the Power BI service.
 
 # Data Summary
-There are 10 datasets for this project.
 The datasets are: 
-1. Sales Data 2020
-1. Sales Data 2021
-1. Sales Data 2022
-1. Returns Data
-1. Calendar Lookup
-1. Customer Lookup
-1. Product Category Lookup
-1. Product Subcategory Lookup
-1. Product Lookup
-1. Territory Lookup
+1. Sales Data 2020 & 2021 & 2022 (56064 records across 9 columns)
+1. Returns Data (1809 records across 4 columns)
+1. Calendar Lookup (912 records across 1 column)
+1. Customer Lookup (18148 records across 13 columns)
+1. Product Category Lookup (4 records across 2 columns)
+1. Product Subcategory Lookup (37 records across 3 columns)
+1. Product Lookup (293 records across 14 columns)
+1. Territory Lookup (10 records across 4 columns)
 
 
