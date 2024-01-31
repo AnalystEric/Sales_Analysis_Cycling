@@ -23,3 +23,19 @@ Feel free to use the interactive [dashboard.](https://app.powerbi.com/reportEmbe
 * Implement tooltips for visuals.
 * Apply conditional formatting.
 * Deploy reports to the Power BI service.
+
+# Data Summary
+There are 10 datasets for this project.
+The datasets are: 
+1. Sales Data 2020
+1. Sales Data 2021
+1. Sales Data 2022
+1. Returns Data
+1. Calendar Lookup
+1. Customer Lookup
+1. Product Category Lookup
+1. Product Subcategory Lookup
+1. Product Lookup
+1. Territory Lookup
+
+
