@@ -12,3 +12,14 @@ Feel free to use the interactive [dashboard.](https://app.powerbi.com/reportEmbe
 
 # Built with
 * Power BI
+* Power Query
+* Power BI Service
+
+# Tech Skills
+* Perform data cleaning and Extract, Load, and Transform (ELT) operations using Power Query Editor.
+* Build a relational data model
+* Create measures and calculated columns with DAX
+* Utilise Bookmarks to switch between different visuals.
+* Implement tooltips for visuals.
+* Apply conditional formatting.
+* Deploy reports to the Power BI service.
