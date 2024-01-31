@@ -1,2 +1,2 @@
-# Sales_Analysis_Cycling_Equipment_Accessories
-Utilised Power BI to build interactive reports for executive, product &amp; customer teams, providing comprehensive insights.
+# <p align="center">Cycling Equipment & Accessories Sales Analysis</p>
+# Project Overview
